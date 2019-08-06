@@ -1,0 +1,25 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livaios/core-system-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livaios/core-system-test/issues"
+  },
+  "homepage": "https://github.com/livaios/core-system-test#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
